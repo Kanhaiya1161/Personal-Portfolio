@@ -36,23 +36,20 @@ Click here to view the live portfolio (https://personal-portfolio-kanhaiya.netli
 PERSONAL PORTFOLIO/
 │
 ├── css/               # Custom stylesheets
+
 ├── fonts/             # Custom fonts (if any)
+
 ├── images/            # Project and profile images
+
 ├── js/                # JavaScript files
+
 ├── lib/               # Any libraries or plugins
+
 ├── scss/              # Sass files (optional)
+
 ├── index.html         # Main HTML file
+
 └── prepros-6.config   # Configuration file for Prepros
-🚀 Getting Started
-Prerequisites
-To run the project locally, all you need is a modern browser.
-
-Installation
-
-Clone the repository:
-
-git clone https://github.com/Kanhaiya1161/Personal_Portfolio.git
-Open [index.html] in your preferred browser.
 
 ⭐ Show Your Support
 Don’t forget to give a star ⭐ on this repository if you like it!
